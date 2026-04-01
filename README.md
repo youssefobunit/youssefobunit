@@ -33,8 +33,8 @@
 ✨ I enjoy understanding how things work behind the scenes  
 🔍 Debugging and fixing problems is something I truly enjoy  
 📚 Always learning new technologies and improving my skills  
-<div align="right">
-  <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWg5aWg3d2VvYmZ3OXpvYm9qc2V2MG4xMHh5c3huMmF6cjBzdjFpbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif"  />
+<div align="left">
+  <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWg5aWg3d2VvYmZ3OXpvYm9qc2V2MG4xMHh5c3huMmF6cjBzdjFpbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif"  /> <br>
 💡 I believe in writing clean, simple, and efficient code  
 🔥 I love challenges and continuous self-improvement  
 
