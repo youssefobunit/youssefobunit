@@ -35,7 +35,7 @@
 📚 Always learning new technologies and improving my skills  
 💡 I believe in writing clean, simple, and efficient code  
 🔥 I love challenges and continuous self-improvement  
-<div align="right">
+<div align="right" style='position: absolute;'>
   <img height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWg5aWg3d2VvYmZ3OXpvYm9qc2V2MG4xMHh5c3huMmF6cjBzdjFpbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif"  /></div>
 ---
 
