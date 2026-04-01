@@ -5,7 +5,6 @@
 ⚙️ I turn ideas into real-world applications  
 
 ---
-
 ## 🧠 About Me
 
 ✨ I enjoy understanding how things work behind the scenes  
@@ -33,8 +32,7 @@
 💡 Languages: Python | JavaScript | Bash  
 ⚙️ Tools: Git | GitHub | Postman | Linux  
 🌐 Concepts: REST APIs | Automation | Debugging  
-
-
+```
 <h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###
